@@ -1,3 +1,3 @@
 # Python-CSGO-Glow-ESP
-just uodate offsets from haze dumper
-you csn use this as it is or add to it.
+just update offsets from haze dumper
+you can use this as it is or add to it.
