@@ -8,7 +8,7 @@ m_iTeamNum = 0xF4
 
 
 def main():
-    print("ESP Has Launched.")
+    print("Cheat Has Launched.")
     pm = pymem.Pymem("csgo.exe")
     client = pymem.process.module_from_name(pm.process_handle, "client.dll").lpBaseOfDll
 
